@@ -5,7 +5,7 @@ MERN Stack Developer
 --------------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at mahendrasinghmani222@gmail.com , https://manikandan-msm.web.app/
+* ✉️  You can contact me at mahendrasinghmani222@gmail.com , [https://manikandan-msm.web.app/](https://msm-tech.vercel.app/)
 * 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on interesting projects
 
