@@ -6,7 +6,7 @@ MERN Stack Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at mahendrasinghmani222@gmail.com , https://msm-tech.vercel.app/
-* 🧠  I'm learning MERN Stack
+* 🧠  MERN Stack Developer
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
